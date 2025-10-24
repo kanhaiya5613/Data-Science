@@ -3,5 +3,7 @@
 ipykernal
 numpy
 pandas
+matplotlib
+seaborn
 
 # pip install -r requirements.txt
